@@ -1,6 +1,12 @@
-# Control-Theory-Bootcamp
-This repository contains all the resources shared during our bootcamp (originally available on Moodle), uploaded here for easier access and reference. It includes weekly resources, course materials and other useful content shared throughout the bootcamp.
+# Control Theory Bootcamp Resources Repository
 
-Feel free to explore and use these materials anytime!
+Welcome to this repository containing all the resources shared during our bootcamp.  
+These materials were originally shared on Moodle, but We’ve uploaded them here on GitHub for easier access, reference, and collaboration.
+
+##  What’s included?
+- **Weekly resources**  
+- **Course information and materials**  
+- **Other useful content shared during the bootcamp**
 
 
+Feel free to explore and make the most of these resources!
